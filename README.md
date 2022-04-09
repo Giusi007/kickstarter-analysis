@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends.
+# An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover trends in the theater industry, including optimizing campaign start date, campaign goal, and other important factors for success. The report includes data visualizations and charts in each worksheet of the Excel file. We found that the best time to launch a campaign is May, and that the ideal goal is less than $4,000.
