@@ -23,7 +23,7 @@ see in the below image, the most successful month for launching a campaign is
 May. Based on the data, the least successful month for launching a campaign is
 December. We recommend launching a campaign in May for the highest chance of
 success.
-![Outcomes Based on Launch Date](https://imgur.com/a/aIBXACf)
+![Outcomes Based on Launch Date](https://i.imgur.com/BzWE40o.png)
 
 ### Analysis of Outcomes Based on Goals
 Campaign goals are a very important aspect of Kickstarter campaigns. Choosing
@@ -33,7 +33,7 @@ created the chart included below. This chart suggests that keeping the goal
 under $5000 is your best chance of success. 73% of campaigns in to $1000-$4999
 range had successful outcomes. The success rate drops to 55% in the next range
 of $5000-$9999.
-![Outcomes Based on Goals](https://imgur.com/a/w3YYi7k)
+![Outcomes Based on Goals](https://i.imgur.com/GO85zMM.png)
 
 ### Challenges and Difficulties Encountered
 When analyzing outcomes by goals, the percentage of successful campaigns
